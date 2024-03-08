@@ -24,4 +24,5 @@ fun main(){
     pilha.empilhar(dadoQualquer)
 
     println("Dados: ${pilha.imprimir()}")
+
 }
