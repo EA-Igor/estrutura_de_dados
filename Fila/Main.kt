@@ -15,8 +15,8 @@ fun main() {
     println("Frente: ${fila.frente()}")
     fila.enfileirar("G");
     fila.enfileirar(conteudo)
+    fila.enfileirar("H")
     fila.enfileirar("I")
     fila.enfileirar("J")
-    fila.enfileirar("K")
     println("Fila=${fila.imprimir()}")
 }
