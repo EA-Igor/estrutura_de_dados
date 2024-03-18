@@ -1,4 +1,4 @@
-package PilhaInvertida
+package Pilhas.PilhaInvertida
 
 fun main() {
     var pilha: Empilhavel = PilhaEstaticaInvertida(7)

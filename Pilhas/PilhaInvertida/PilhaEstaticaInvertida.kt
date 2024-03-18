@@ -1,4 +1,4 @@
-package PilhaInvertida
+package Pilhas.PilhaInvertida
 
 class PilhaEstaticaInvertida : Empilhavel {
 
